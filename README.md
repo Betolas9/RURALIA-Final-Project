@@ -1,9 +1,11 @@
 # RURALIA-Final-Project
 🌿 Sustainable Rural Tourism in Portugal
+
 This project was developed as my University Final Project with the goal of transforming rural tourism in Portugal into a more sustainable and engaging experience through gamification.
 We worked as a team of six, which allowed us to collaborate effectively and apply agile methodologies throughout the project.
 
 📋 Project Objective:
+
 Our objective was to enhance the rural tourism experience by implementing a system that motivates tourists to engage with local activities and cultures in a sustainable way. By integrating gamification elements, we created an interactive platform where users are rewarded for eco-friendly actions, local participation, and sustainable travel habits.
 
 🛠️ Technologies Used:
